@@ -1,0 +1,3 @@
+[INFO] System running smoothly.
+[WARNING] Minor cleanup required.
+[ERROR] Temporary file missing, skipping cleanup.
